@@ -6,12 +6,12 @@ YYB Go 适配版。
 
 | 变量名 | 格式 | 示例 |
 |--------|------|------|
-| `YYB_GO` | `地址@openid，支持换行或 & 分隔多个账号` | `172.17.0.4:8000@openid1&172.17.0.4:8000@openid2` |
+| `YYB_GO` | `地址@openid`，支持换行或 `&` 分隔多个账号 | `172.17.0.4:8000@openid1&172.17.0.4:8000@openid2` |
 
 ## 青龙订阅
 
 ```
-ql repo https://github.com/juelianxyt/YYB-GO-Script.git "" "" "" ""
+ql repo https://github.com/feiniao025/YYB-GO-Script.git "" "" "" ""
 ```
 
 ## 注意事项
